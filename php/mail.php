@@ -4,7 +4,7 @@
  * change this to the email you want the form to send to
  * ===================================================== */
 $email_to = "Star.bags65@gmail.com"; 
-$email_from = "emailayaz65@gmail"; // must be different than $email_from 
+$email_from = "emailayaz65@gmail.com”; // must be different than $email_from 
 $email_subject = "Thank you for your Order";
 
 if(isset($_POST['email']))
